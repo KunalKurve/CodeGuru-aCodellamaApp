@@ -14,3 +14,5 @@ short_description: A Simple Coding Assistant made using Meta's CodeLlama
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 CodeGuru is a Simple Coding Assistant GenAI application made using Meta's CodeLlama
+URL: https://huggingface.co/spaces/kunalkurve/CodeGuru-aCodellamaApp
+
