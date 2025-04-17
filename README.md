@@ -8,7 +8,7 @@ sdk_version: 5.25.2
 app_file: app.py
 pinned: false
 license: apache-2.0
-short_description: A Simple Coding Assistant made using Meta's CodeLlama and codegen-2B-multi
+short_description: A Simple Coding Assistant made using codegen-2B-multi
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
